@@ -43,6 +43,12 @@ gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
 
 # Use Sass to process CSS
+gem "sassc-rails"
+
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
+gem 'simple-form-datepicker'
+
 # gem "sassc-rails"
 gem "devise"
 
